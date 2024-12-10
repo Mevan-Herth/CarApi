@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "Make": "Toyota",
+    "Model": "Supra",
+    "Year": "1998"
+  },
+  {
+    "id": 2,
+    "Make": "Toyota",
+    "Model": "camry",
+    "Year": 2000
+  },
+  {
+    "id": 3,
+    "Make": "Mazda",
+    "Model": "rx7",
+    "Year": 1998
+  },
+  {
+    "id": 4,
+    "Make": "Honda",
+    "Model": "Civic",
+    "Year": 2001
+  },
+  {
+    "id": 5,
+    "Make": "Ford",
+    "Model": "Mustang",
+    "Year": 2000
+  },
+  {
+    "id": 6,
+    "Make": "Chevrolet",
+    "Model": "Corvette",
+    "Year": 1999
+  },
+  {
+    "id": 7,
+    "Make": "Nissan",
+    "Model": "Skyline",
+    "Year": 1998
+  },
+  {
+    "id": 8,
+    "Make": "BMW",
+    "Model": "3 Series",
+    "Year": 2003
+  },
+  {
+    "id": 9,
+    "Make": "Mercedes-Benz",
+    "Model": "C-Class",
+    "Year": 2004
+  },
+  {
+    "id": 10,
+    "Make": "Audi",
+    "Model": "A4",
+    "Year": 2005
+  },
+  {
+    "id": 11,
+    "Make": "Volvo",
+    "Model": "S60",
+    "Year": 2006
+  },
+  {
+    "id": 12,
+    "Make": "Jaguar",
+    "Model": "XK8",
+    "Year": 2007
+  },
+  {
+    "id": 13,
+    "Make": "Porsche",
+    "Model": "Boxster",
+    "Year": 2008
+  },
+  {
+    "id": 15,
+    "make": "nissan",
+    "model": "gtr",
+    "year": 1990
+  },
+  {
+    "id": 16,
+    "make": "3",
+    "model": "2",
+    "year": 3
+  },
+  {
+    "id": 15,
+    "make": "nissan",
+    "model": "r35",
+    "year": 2000
+  }
+]
